@@ -1,5 +1,6 @@
 using UnityEngine;
 
+
 public class PrefabSpawner : MonoBehaviour
 {
     // Сериализуем поле для выбора префабов
